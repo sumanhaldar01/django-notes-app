@@ -3,4 +3,4 @@ services :
   web :
      image : sonuh/notes-app:latest
      ports :
-         - "8000:8000"
+         - "4000:4000"
